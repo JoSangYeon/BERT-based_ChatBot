@@ -11,6 +11,17 @@
     + [PreProcessing Code](https://github.com/JoSangYeon/BERT-based_ChatBot/blob/master/data/Pre-Processing.ipynb)
 
 ## Model
++ BERT : Sentence-BERT
++ pre-Training : https://huggingface.co/jhgan/ko-sroberta-multitask
+  + KorSTS, KorNLI
+    + Cosine Pearson: 84.77
+    + Cosine Spearman: 85.60
+    + Euclidean Pearson: 83.71
+    + Euclidean Spearman: 84.40
+    + Manhattan Pearson: 83.70
+    + Manhattan Spearman: 84.38
+    + Dot Pearson: 82.42
+    + Dot Spearman: 82.33
 
 ## Result
 
