@@ -8,7 +8,7 @@
 + AI Hub의 개방 데이터를 이용
     + 감성대와 말뭉치([Link](https://aihub.or.kr/aidata/7978))
 + 해당 데이터에서 Q&A 데이터를 정제하여 사용함
-    + [PreProcessing Code]()
+    + [PreProcessing Code](https://github.com/JoSangYeon/BERT-based_ChatBot/blob/master/data/Pre-Processing.ipynb)
 
 ## Model
 
