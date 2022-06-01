@@ -62,6 +62,8 @@ USER >>> exit
 ```
 
 ### Performance table
+![image](https://user-images.githubusercontent.com/28241676/171382765-0bb4aa3b-33ae-443c-bf6a-3dcfa885094d.png)
+
 
 ## Conclusion
 
