@@ -21,7 +21,7 @@
 
 
 ## Model
-+ BERT : Sentence-BERT
+### BERT : Sentence-BERT
 + pre-Training : https://huggingface.co/jhgan/ko-sroberta-multitask
   + KorSTS, KorNLI
     + Cosine Pearson: 84.77
@@ -32,6 +32,12 @@
     + Manhattan Spearman: 84.38
     + Dot Pearson: 82.42
     + Dot Spearman: 82.33
+    
+### AutoEncoder
++ for Embedding Dimension reducing
++ 768 -> 512, 256, 128, 64
++ ![image](https://user-images.githubusercontent.com/28241676/171380812-f810d35b-2881-4cdb-833a-8d0eb8629355.png)
+
 
 ## Result
 ```python main.py```
